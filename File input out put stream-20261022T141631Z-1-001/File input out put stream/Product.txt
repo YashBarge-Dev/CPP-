@@ -1,0 +1,11 @@
+
+ Product (1) :  Steering
+Cost : 5000 Rs
+ Product (2) :  Handbrake
+Cost : 2500 Rs
+ Product (3) :  Rear Wheels
+Cost : 8000 Rs
+ Product (4) :  Fog Lamp
+Cost : 12000 Rs
+ Product (5) :  Backlight
+Cost : 15000 Rs
